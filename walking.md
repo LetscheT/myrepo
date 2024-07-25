@@ -5,6 +5,7 @@ date: "2024-07-25"
 output: 
   html_document: 
     keep_md: true
+  github_document:
 ---
 
 
